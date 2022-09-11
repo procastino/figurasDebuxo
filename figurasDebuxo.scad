@@ -100,6 +100,39 @@ module curves04(side){
     }
     
 }
+module curves05(side){
+    difference(){
+        union(){
+    translate ([side,0,0])cube([side,2*side,height]);
+    translate ([side,side,0]) cylinder(r=side,h=height,$fn=60);
+    translate ([2*side,side,0]) cylinder(r=side,h=height,$fn=60);
+        }
+        translate ([side,side,0]) cylinder(r=side/2,h=height,$fn=60);
+        #translate ([2*side,side,0]) cylinder(r=side/4,h=height,$fn=60);
+         for (i=[0:sep:2*side]){
+    translate([0,i,-sin(45)]) rotate([45,0,0]) cube([3*side,1,1]);
+    }
+       
+    }
+    
+}
+module curves06(side){
+    difference(){
+        union(){
+    cube([side,1.5*side,height]);
+    cube([1.5*side,side,height]);
+    translate ([1.5*side,side/2,0]) cylinder(r=side/2,h=height,$fn=60);
+    translate ([side/2,1.5*side,0]) cylinder(r=side/2,h=height,$fn=60);
+        }
+        translate ([side/2,1.5*side,0]) cylinder(r=side/4,h=height,$fn=60);
+        translate ([1.5*side,side/2,0]) cylinder(r=side/4,h=height,$fn=60);
+         for (i=[0:sep:2*side]){
+    translate([0,i,-sin(45)]) rotate([45,0,0]) cube([3*side,1,1]);
+    }
+       
+    }
+    
+}
 //capitalL(10);
 //capitalU(20);
-curves01(10);
+curves06(20);
