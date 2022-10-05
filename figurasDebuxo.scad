@@ -133,6 +133,5 @@ module curves06(side){
     }
     
 }
-//capitalL(10);
-//capitalU(20);
-curves06(20);
+
+curves06(10);
