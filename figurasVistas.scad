@@ -1,12 +1,13 @@
-fig01();
-translate([22,0,0]) fig02();
-translate([44,0,0])  fig03();
-translate([66,0,0])  fig04();
-translate([0,22,0])  fig05();
-translate([22,22,0])  fig06();
-translate([55,22,0])  fig07();
+//fig01();
+//translate([22,0,0]) fig02();
+//translate([44,0,0])  fig03();
+//translate([66,0,0])  fig04();
+//translate([0,22,0])  fig05();
+//translate([22,22,0])  fig06();
+//translate([55,22,0])  fig07();
+//translate([0,60,0]) fig08();
 
-//fig07();
+fig08();
 
 
 module fig01(){
@@ -36,6 +37,11 @@ module fig07(){
         cube([30,30,10]);
         translate([10,10,0]) cube([10,10,20]);
     }
+}
+
+module fig08(){
+    cube([10,20,20]);
+    translate ([10,10,0]) cube([10,10,10]);
 }
 
 
