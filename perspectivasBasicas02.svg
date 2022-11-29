@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="perspectivasBasicas.svg">
+   sodipodi:docname="perspectivasBasicas02.svg">
   <defs
      id="defs2">
     <rect
@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="589.9705"
-     inkscape:cy="417.73502"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="184.63406"
+     inkscape:cy="519.25089"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -42,7 +42,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="axonomgrid"
        id="grid865"
@@ -68,97 +69,12 @@
        xml:space="preserve"
        id="text839"
        style="font-size:7.05556px;line-height:1.25;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect841);"
-       transform="translate(94.720301,12.904368)"><tspan
+       transform="translate(97.366136,12.904368)"><tspan
          x="0"
          y="0"><tspan>Reproduce as figuras en perspectiva nas grellas</tspan></tspan></text>
     <g
-       id="g898"
-       transform="matrix(0.87601001,0,0,0.87601001,2.1475708,25.10909)">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="M 43.301269,75 56.291651,67.499999 V 52.5 l -12.990382,7.499998 z"
-         id="path869" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="M 43.301269,75 17.320508,59.999998 V 15 l 12.990381,7.5 v 30 l 12.99038,7.499998"
-         id="path871" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="M 17.320508,15 30.310889,7.5 43.301269,15 V 44.999999 L 56.291651,52.5"
-         id="path873" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="M 30.310889,22.5 43.301269,15"
-         id="path875" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 30.310889,52.5 12.99038,-7.500001"
-         id="path877" />
-    </g>
-    <g
-       id="g907"
-       transform="matrix(0.87601001,0,0,0.87601001,131.20322,-39.156137)">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 21.650635,112.5 12.990382,7.5 v 30 l -12.990382,-7.5 z"
-         id="path879" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 21.650635,112.5 12.990382,-7.5 12.99038,7.5 -12.99038,7.5"
-         id="path881" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 47.631397,112.5 v 15 l 12.99038,-7.5 v -15 l 12.99038,-7.5 2e-6,30"
-         id="path883"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 34.641017,150 38.97114,-22.5"
-         id="path885" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="M 60.621777,105 47.631397,97.5 60.621777,89.999999 73.612157,97.5"
-         id="path887" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 47.631397,97.5 v 15"
-         id="path889" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 60.621777,120 -12.99038,-7.5"
-         id="path891" />
-    </g>
-    <g
-       id="g2492"
-       transform="matrix(0.87601001,0,0,0.87601001,-7.1340886,-8.7647271)">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 20.840398,189.181 12.990382,7.5 v -15 l -12.990382,-7.5 z"
-         id="path909" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 20.840398,174.181 12.990382,-7.5 12.99038,7.5 -12.99038,7.5"
-         id="path911" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 46.82116,174.181 v -15 l -12.99038,-7.5 v 15"
-         id="path913" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 33.830778,151.681 12.990382,-7.5 12.99038,7.5 -12.99038,7.5"
-         id="path915" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 59.81154,151.681 v 15 l 12.99038,-7.5 v 15 l -38.971142,22.5"
-         id="path917" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
-         d="m 72.80192,159.181 -12.99038,-7.5"
-         id="path919" />
-    </g>
-    <g
        id="g997"
-       transform="matrix(0.87601001,0,0,0.87601001,28.305596,73.245564)">
+       transform="matrix(0.83937215,0,0,0.83937215,37.17744,78.744055)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stop-color:#000000"
          d="M 186.19546,102.5 199.18584,95 V 80.000001 l -12.99038,7.499998 z"
@@ -208,7 +124,7 @@
     </g>
     <g
        inkscape:label="Grid_Polar:X3:Y6"
-       transform="translate(60.345289,16.111419)"
+       transform="translate(62.991124,16.111419)"
        id="g2812">
       <g
          inkscape:label="MajorXGridlines"
@@ -408,7 +324,7 @@
     </g>
     <g
        inkscape:label="Grid_Polar:X3:Y6"
-       transform="translate(205.44024,16.111419)"
+       transform="translate(208.08609,16.111419)"
        id="g2937">
       <g
          inkscape:label="MajorXGridlines"
@@ -605,6 +521,90 @@
          style="fill:none;stroke:#000000;stroke-width:0.0529167"
          inkscape:label="Border"
          id="rect2935" />
+    </g>
+    <g
+       id="g988"
+       transform="matrix(0.95817644,0,0,0.95817644,-60.031021,9.2414017)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="M 86.803589,69.576505 100.03279,61.938619 V 46.662903 l 26.4583,-15.275771 6e-5,15.275737 -13.22922,7.637893 6e-5,15.275743 -26.458401,15.275726 z"
+         id="path973" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="M 86.803589,69.576505 73.574488,61.938627 v 15.275705 l 13.229101,7.637899"
+         id="path975" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 73.574488,61.938627 13.229101,-7.637833 13.229201,7.637825"
+         id="path977" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="M 86.803589,54.300794 V 39.025009 l 26.458401,-15.275765 13.2291,7.637888"
+         id="path979" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="M 100.03279,46.662903 86.803589,39.025009"
+         id="path981" />
+    </g>
+    <g
+       id="g1011"
+       transform="matrix(0.95817644,0,0,0.95817644,-56.098722,6.1920843)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 258.35694,39.025009 -13.2292,7.637894 v 15.275716 l 13.22914,-7.637857 6e-5,-15.27575 -13.2292,-7.637886 -13.2292,7.637886 13.2292,7.637892"
+         id="path990" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 245.12774,61.938619 -13.2292,-7.637886 -1e-5,-15.275721"
+         id="path992" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 231.89859,54.300762 -13.22915,7.637865 13.2291,7.637806 13.22919,-7.637817"
+         id="path994" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 218.66944,61.938627 -6e-5,15.275742 13.22913,7.637849 -0.0526,-15.306201"
+         id="path996" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 231.89854,84.852231 13.2292,-7.637912 v -15.2757 l 13.2292,7.637814 13.2291,-7.637805 -13.22915,-7.637864"
+         id="path998" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 245.12774,77.214319 13.2292,7.637886 13.22909,-7.637873 V 61.938627"
+         id="path1000" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 258.35687,69.576468 9e-5,15.27575"
+         id="path1002" />
+    </g>
+    <g
+       id="g1047"
+       transform="matrix(0.95817644,0,0,0.95817644,-61.230678,13.633055)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 73.574671,138.31738 -1.83e-4,15.27524 26.458302,15.2763 26.4583,-15.27565 v -15.27579 l -26.4583,15.27544 z"
+         id="path1029" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 100.03279,153.59292 -0.0172,15.26609"
+         id="path1031" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 73.574671,138.31738 13.229209,-7.63795 13.22891,7.63764 13.2292,-7.63747 13.2291,7.63788"
+         id="path1033" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 100.03279,138.31707 v -15.2754 l 13.2292,-7.63797 -13.2292,-7.63788 -13.229201,7.63788 2.64e-4,15.27573"
+         id="path1035" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 86.803589,115.4037 13.229201,7.63797"
+         id="path1037" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.438004;stroke-linejoin:round;stop-color:#000000"
+         d="m 113.26199,115.40373 -2.7e-4,15.2757"
+         id="path1039" />
     </g>
   </g>
 </svg>
