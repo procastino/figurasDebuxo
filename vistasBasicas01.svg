@@ -30,17 +30,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="282.56886"
-     inkscape:cy="465.52919"
+     inkscape:zoom="0.5"
+     inkscape:cx="701.5215"
+     inkscape:cy="233.62811"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="1680"
-     inkscape:window-y="27"
+     inkscape:window-width="1680"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-intersection-paths="true">
     <inkscape:grid
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -258,9 +258,11 @@
     <text
        xml:space="preserve"
        id="text883"
-       style="font-size:7.05556px;line-height:1.25;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect885);"
+       style="font-size:7.05556px;line-height:1.25;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, ';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect885);font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        transform="matrix(1.6552262,0,0,1.6552262,-12.309807,-3.0972472)"><tspan
          x="18.787109"
-         y="16.753525"><tspan>Vistas Básicas 01</tspan></tspan></text>
+         y="16.753525"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, '">Vistas Básicas </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, '">01</tspan></tspan></text>
   </g>
 </svg>
